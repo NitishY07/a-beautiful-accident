@@ -1,0 +1,20 @@
+{
+  "name": "a-beautiful-accident",
+  "version": "1.0.0",
+  "description": "A beautiful personal website dedicated to a special friend",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "static"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
